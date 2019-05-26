@@ -24,6 +24,7 @@
 - 孙琦超 大一
 - 师印亮 大一
 - 贾俊辰 大一
+- 张法凯 大一
 
 ## VPN
 [lantern VPN](https://github.com/getlantern/download/wiki)，选择相应的下载，有体验流量。
